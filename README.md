@@ -15,12 +15,6 @@ A developer tool for collecting and cloning raw data from URLs. Perfect for deve
 npm install -g webbin
 ```
 
-Or use without installation:
-
-```bash
-npx webbin collect https://example.com
-```
-
 ## Commands
 
 ### `webbin collect <url>`
